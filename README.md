@@ -1,2 +1,2 @@
-# Leetcode Solution
-My Solutions For The Leetcode Problems I Will Solve
+# Leetcode Solution/ CodeForces Solution/ GFG Solution
+My Solutions For The Problems I Will Solve
